@@ -3,13 +3,13 @@
 A dynamic page length indicator for a Bootstrap navbar
 
 ## Usage
------
 
 You can install Bootstrap Scroll Indicator through bower:
 
 ```bash
 bower install bootstrap-scroll-indicator
 ```
+-----
 
 Include bootstrap-scroll-indicator.min.css in your header. 
 
