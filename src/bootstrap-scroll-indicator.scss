@@ -1,0 +1,25 @@
+/* 
+    Created on : May 14, 2016, 1:53:14 PM
+    Author     : guidorus
+*/
+
+.scroll-indicator-bar {
+    height: 5px;
+    position: relative;
+    margin-top: -5px;
+
+    .scroll-indicator-bar-container {
+        position: absolute;
+        width: 100%;
+        
+        .scroll-indicator {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            -webkit-transition: all 0.2s ease-in-out;
+            -moz-transition: all 0.2s ease-in-out;
+            -o-transition: all 0.2s ease-in-out;
+            transition: all 0.2s ease-in-out;
+        }
+    }
+}

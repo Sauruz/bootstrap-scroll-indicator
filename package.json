@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-scroll-indicator",
+  "version": "1.0.0",
+  "description": "A dynamic page length indicator for a Bootstrap navbar",
+  "author": "Guido Rus",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
