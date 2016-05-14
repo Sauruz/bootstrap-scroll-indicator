@@ -1,4 +1,4 @@
-var Scrollindicator = function (options) {
+var ScrollIndicator = function (options) {
     var that = this;
     
     $('.scroll-indicator-bar').html('<div class="scroll-indicator-bar-container"><div class="scroll-indicator"></div></div>');
