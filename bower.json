@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-scroll-indicator",
+  "description": "A dynamic page length indicator for a Bootstrap navbar",
+  "main": "",
+  "authors": [
+    "Guido Rus"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Bootstrap",
+    "scroll",
+    "scroller",
+    "indicator"
+  ],
+  "homepage": "https://github.com/Sauruz/bootstrap-scroll-indicator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
